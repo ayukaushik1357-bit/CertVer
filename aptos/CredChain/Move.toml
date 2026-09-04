@@ -10,4 +10,4 @@ version = "0.0.0"
 CredChain = "0x7be6c2e59ec67eb7b22f1f9cc4b608e31daaf21a1c68c5269d7ebbb9433c201e"
 
 [dependencies]
-AptosFramework = { git = "https://github.com/aptos-labs/aptos-framework.git", subdir = "aptos-framework", rev = "testnet" }
+AptosFramework = { git = "https://github.com/aptos-labs/aptos-framework.git", subdir = "aptos-framework", rev = "mainnet" }
